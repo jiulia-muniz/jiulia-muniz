@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-•  I'm 17 years old! 📚<br>• Apprentice in digital solutions at Bosch. <br>• I am studying systems development at SENAI - Roberto Mange.
+•  I'm 17 years old! <br>• Apprentice in digital solutions at Bosch. <br>• I am studying systems development at SENAI - Roberto Mange.
 
 
 ## 🌐 Socials:
