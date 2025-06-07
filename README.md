@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-• Estou cursando o segundo ano do ensino médio. 📚(T_T)<br>• Sou Jovem Aprendiz em Soluções Digitais na BOSCH. 💻👌😁<br>• Estou cursando desenvolvimento de sistemas no SENAI - Roberto Mange. 👻
+•  I'm 17 years old! 📚<br>• Apprentice in digital solutions at Bosch. <br>• I am studying systems development at SENAI - Roberto Mange.
 
 
 ## 🌐 Socials:
